@@ -12,13 +12,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "Video Streaming Application",
+    title: "Complete Linux Platform Driver with Device Tree Integration",
     description:
-      "High performance architecture and responsive design that works well on various devices.",
-    image: "/projects/project2.png",
-    tags: ["TypeScript", "MongoDB", "Next.js"],
-    demoUrl: "https://media.licdn.com/dms/image/v2/D4D22AQHAS-avu_2Bmw/feedshare-shrink_2048_1536/B4DZlT9s8hGgAw-/0/1758050310247?e=1767830400&v=beta&t=xMh91Cx9fC0VbSaw5U4cgQbOR2hAdzQ01SPso9PEgmk",
-    githubUrl: "https://github.com/senaerg/VideoStreamer",
+      "Modern Linux character device driver implementing the full platform driver lifecycle - perfect for ARM SoC and embedded systems.",
+    image: "/projects/BBB.png",
+    tags: ["linux-driver", "Platform-driver", "Device-tree", "Kernel-module"],
+    demoUrl: "",
+    githubUrl: "https://github.com/senaerg/Linux-Device-Drivers",
   },
   {
     id: 3,
