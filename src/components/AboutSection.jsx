@@ -27,9 +27,7 @@ export const AboutSection = () => {
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about building accessible, performant web experiences, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+             I focus on writing deterministic, resource‑aware code with strong separation between hardware abstractions, protocols, and business logic, and I enjoy mentoring engineers in embedded best practices and structured debugging
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
