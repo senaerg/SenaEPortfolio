@@ -20,12 +20,19 @@ const skills = [
   { name: "Sensor integration and calibration", level: 80, category: "embedded & Microcontrollers" },
 
   // Backend
-  { name: "Node.js", level: 80, category: "real-Time Systems" },
-  { name: "Express", level: 75, category: "real-Time Systems" },
-{ name: "Rest API", level: 75, category: "real-Time Systems" },
-{ name: "LLM API Integration", level: 75, category: "real-Time Systems" },
-{ name: "Rabbit MQ", level: 70, category: "real-Time Systems" },
-{ name: "Microservices", level: 85, category: "real-Time Systems" },
+ 
+
+
+
+
+
+
+  { name: "Real‑time and deterministic software patterns", level: 80, category: "real-Time Systems" },
+  { name: "Interrupt‑safe code and shared‑resource discipline", level: 75, category: "real-Time Systems" },
+{ name: "Memory management and stack analysis", level: 75, category: "real-Time Systems" },
+{ name: "Embedded Linux", level: 75, category: "real-Time Systems" },
+{ name: "Watchdogs, error recovery, logging frameworks", level: 70, category: "real-Time Systems" },
+{ name: "Kernel modules and device drivers", level: 85, category: "real-Time Systems" },
 
   { name: "MongoDB", level: 70, category: "database" },
   { name: "PostgreSQL", level: 70, category: "database" },
