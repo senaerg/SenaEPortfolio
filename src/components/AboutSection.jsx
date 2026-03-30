@@ -16,7 +16,14 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over a decade of experience as a Senior Full Stack Developer, I specialize in architecting high-performance web systems that balance technical elegance with business growth. My career has evolved from writing pixel-perfect CSS to engineering complex full-stack ecosystems that leverage AI-driven integrations, serverless computing and automated CI/CD pipelines.
+            I specialize in:
+              <ul>
+<li>Bare‑metal and RTOS‑style firmware on STM32 and similar MCUs, with FreeRTOS‑style patterns and event‑driven architectures.  </li>
+<li> Low‑level peripheral drivers (UART, SPI, I2C, CAN, timers, DMA, ADC) and real‑time sensor pipelines.  </li>
+<li>Embedded Linux, kernel modules, device drivers, BSPs, and Yocto/Poky‑based builds.  </li>
+<li>Debugging and failure analysis with JTAG, GDB, oscilloscopes, and logic analyzers. </li> 
+<li>Edge‑AI and ML on microcontrollers, including quantization‑aware models and TinyML‑style inference infrastructure.</li>
+</ul>
             </p>
 
             <p className="text-muted-foreground">
