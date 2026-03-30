@@ -10,12 +10,14 @@ const skills = [
   { name: "SQL", level: 85, category: "languages" },
   { name: "C#", level: 95, category: "languages" },
   // Frontend
-  { name: "HTML/CSS", level: 95, category: "frontend" },
+  
+  { name: "STM32/ARM Cortex‑M", level: 95, category: "embedded & Microcontrollers" },
 
-  { name: "React", level: 90, category: "frontend" },
+  { name: "Bare‑metal firmware", level: 90, category: "embedded & Microcontrollers" },
 
-  { name: "Tailwind CSS", level: 90, category: "frontend" },
-  { name: "Next.js", level: 80, category: "frontend" },
+  { name: "RTOS concepts", level: 90, category: "embedded & Microcontrollers" },
+  { name: "UART, SPI, I2C, CAN, timers, DMA, ADC, PWM", level: 80, category: "embedded & Microcontrollers" },
+  { name: "Sensor integration and calibration", level: 80, category: "embedded & Microcontrollers" }
 
   // Backend
   { name: "Node.js", level: 80, category: "backend" },
