@@ -37,8 +37,7 @@ export const ContactSection = () => {
         </h2>
 
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Let's connect and Create! I'm always open to discussing new opportunities.
-        </p>
+          I’m open to senior‑level embedded software roles in: firmware for microcontrollers, embedded Linux, kernel‑adjacent systems, and edge‑AI infrastructure.
 
         <div className="grid grid-cols-1 gap-12">
           <div className="space-y-8">
