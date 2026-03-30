@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Food Ordering Application",
-    description: "A beautiful food ordering app with a simple and secure checkout process.",
-    image: "/projects/project1.png",
-    tags: ["React", "CSS", "Node.js"],
-    demoUrl: "https://media.licdn.com/dms/image/v2/D4D22AQHqGcM0th3UZQ/feedshare-shrink_2048_1536/B4DZkuqNx_GgA0-/0/1757424444906?e=1767830400&v=beta&t=WpKu3Ik1rG8xO-yucnZqzGggqm5HdL8tRfgILNSVpzs",
-    githubUrl: "https://github.com/senaerg/FoodOrder",
+    title: "STM32 CIFAR-10 Image Classification",
+    description: "A complete end-to-end pipeline that trains a CNN on CIFAR-10 dataset and deploys it to STM32 B-L475E-IOT01A2 using STM32CubeAI for real-time image classification.",
+    image: "/projects/CNN.jpg",
+    tags: ["CIFAR-10", "CNN", "STM32CubeAI"],
+    demoUrl: "",
+    githubUrl: "https://github.com/senaerg/EmbeddedMachineLearning",
   },
   {
     id: 2,
