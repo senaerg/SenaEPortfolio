@@ -17,7 +17,7 @@ const skills = [
 
   { name: "RTOS concepts", level: 90, category: "embedded & Microcontrollers" },
   { name: "UART, SPI, I2C, CAN, timers, DMA, ADC, PWM", level: 80, category: "embedded & Microcontrollers" },
-  { name: "Sensor integration and calibration", level: 80, category: "embedded & Microcontrollers" }
+  { name: "Sensor integration and calibration", level: 80, category: "embedded & Microcontrollers" },
 
   // Backend
   { name: "Node.js", level: 80, category: "backend" },
