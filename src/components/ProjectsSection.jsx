@@ -7,7 +7,7 @@ const projects = [
     description: "A complete end-to-end pipeline that trains a CNN on CIFAR-10 dataset and deploys it to STM32 B-L475E-IOT01A2 using STM32CubeAI for real-time image classification.",
     image: "/projects/CNN.jpg",
     tags: ["CIFAR-10", "CNN", "STM32CubeAI"],
-    demoUrl: "",
+    /*demoUrl: "",*/
     githubUrl: "https://github.com/senaerg/EmbeddedMachineLearning",
   },
   {
@@ -17,7 +17,7 @@ const projects = [
       "Modern Linux character device driver implementing the full platform driver lifecycle - perfect for ARM SoC and embedded systems.",
     image: "/projects/BBB.png",
     tags: ["linux-driver", "Platform-driver", "Device-tree", "Kernel-module"],
-    demoUrl: "",
+     /*demoUrl: "",*/
     githubUrl: "https://github.com/senaerg/Linux-Device-Drivers",
   },
   {
@@ -27,7 +27,7 @@ const projects = [
       "Multi-task synchronization using FreeRTOS counting semaphores on STM32 microcontroller.",
     image: "/projects/sddefault.jpg",
     tags: ["ARM-cortex-m", "STM32F4", "STM32-hal", "Producer-consumer"],
-    demoUrl: "",
+  /*demoUrl: "",*/
     githubUrl: "https://github.com/senaerg/FreeRTOS_Count_Semaphore",
   },
 ];
