@@ -3,13 +3,11 @@ import { cn } from "@/lib/utils";
 
 const skills = [
 //languages
-  { name: "JavaScript", level: 95, category: "languages" },
-  { name: "TypeScript", level: 85, category: "languages" },
-  { name: "Java", level: 90, category: "languages" },
-  { name: "Python", level: 80, category: "languages" },
-  { name: "SQL", level: 90, category: "languages" },
   { name: "C", level: 95, category: "languages" },
   { name: "C++", level: 85, category: "languages" },
+  { name: "Python", level: 85, category: "languages" },
+  { name: "Java", level: 75, category: "languages" },
+  { name: "SQL", level: 85, category: "languages" },
   { name: "C#", level: 95, category: "languages" },
   // Frontend
   { name: "HTML/CSS", level: 95, category: "frontend" },
