@@ -22,13 +22,13 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "STM32 FreeRTOS Counting Semaphore",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe","Redis"],
-    demoUrl: "https://media.licdn.com/dms/image/v2/D4D22AQEbMa0dBvjriw/feedshare-shrink_2048_1536/B4DZosWSewGsAg-/0/1761680636865?e=1767830400&v=beta&t=UVXMPubYQRt3DrefR8q-oWy9z9XlJPuBnxak7aWPtQs",
-    githubUrl: "https://github.com/senaerg/ecommerce",
+      "Multi-task synchronization using FreeRTOS counting semaphores on STM32 microcontroller.",
+    image: "/projects/sddefault.jpg",
+    tags: ["ARM-cortex-m", "STM32F4", "STM32-hal", "Producer-consumer"],
+    demoUrl: "",
+    githubUrl: "https://github.com/senaerg/FreeRTOS_Count_Semaphore",
   },
 ];
 
