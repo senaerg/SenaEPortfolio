@@ -20,12 +20,12 @@ const skills = [
   { name: "Sensor integration and calibration", level: 80, category: "embedded & Microcontrollers" },
 
   // Backend
-  { name: "Node.js", level: 80, category: "backend" },
-  { name: "Express", level: 75, category: "backend" },
-{ name: "Rest API", level: 75, category: "backend" },
-{ name: "LLM API Integration", level: 75, category: "backend" },
-{ name: "Rabbit MQ", level: 70, category: "backend" },
-{ name: "Microservices", level: 85, category: "backend" },
+  { name: "Node.js", level: 80, category: "real-Time Systems" },
+  { name: "Express", level: 75, category: "real-Time Systems" },
+{ name: "Rest API", level: 75, category: "real-Time Systems" },
+{ name: "LLM API Integration", level: 75, category: "real-Time Systems" },
+{ name: "Rabbit MQ", level: 70, category: "real-Time Systems" },
+{ name: "Microservices", level: 85, category: "real-Time Systems" },
 
   { name: "MongoDB", level: 70, category: "database" },
   { name: "PostgreSQL", level: 70, category: "database" },
