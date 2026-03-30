@@ -20,30 +20,18 @@ const skills = [
   { name: "Sensor integration and calibration", level: 80, category: "embedded & Microcontrollers" },
 
   // Backend
- 
-
-
-
-
-
 
   { name: "Real‑time and deterministic software patterns", level: 80, category: "real-Time Systems" },
   { name: "Interrupt‑safe code and shared‑resource discipline", level: 75, category: "real-Time Systems" },
-{ name: "Memory management and stack analysis", level: 75, category: "real-Time Systems" },
-{ name: "Embedded Linux", level: 75, category: "real-Time Systems" },
-{ name: "Watchdogs, error recovery, logging frameworks", level: 70, category: "real-Time Systems" },
-{ name: "Kernel modules and device drivers", level: 85, category: "real-Time Systems" },
+  { name: "Memory management and stack analysis", level: 75, category: "real-Time Systems" },
+  { name: "Embedded Linux", level: 75, category: "real-Time Systems" },
+  { name: "Watchdogs, error recovery, logging frameworks", level: 70, category: "real-Time Systems" },
+  { name: "Kernel modules and device drivers", level: 85, category: "real-Time Systems" },
 
-  { name: "MongoDB", level: 70, category: "database" },
-  { name: "PostgreSQL", level: 70, category: "database" },
-  { name: "MySQL", level: 60, category: "database" },
-  { name: "PL/SQL", level: 90, category: "database" },
-  // Tools
-  { name: "Git/GitHub", level: 90, category: "tools" },
-  { name: "Docker", level: 70, category: "tools" },
-  { name: "VS Code", level: 95, category: "tools" },
-{ name: "Kubernetes", level: 60, category: "tools" },
-{ name: "AWS", level: 75, category: "tools" }
+  { name: "JTAG Debugging", level: 70, category: "debugging & Tools" },
+  { name: "GDB(Bare-metal & Linux)", level: 75, category: "debugging & Tools" },
+  { name: "Oscilloscopes, logic analyzers", level: 90, category: "debugging & Tools" },
+  { name: "Trace‑based debugging and post‑mortem analysis", level: 90, category: "debugging & Tools" }
 ];
 
 const categories = ["all","languages", "embedded & Microcontrollers", "real-Time Systems", "debugging & Tools"];
