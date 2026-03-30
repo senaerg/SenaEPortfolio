@@ -21,7 +21,7 @@ export const HeroSection = () => {
           </h1>
             <h2 className="text-2xl md:text-4xl font-bold tracking-tight">Senior Embedded Software Engineer</h2>
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I bridge the gap between sophisticated frontend interfaces and high-performance backend systems. I focus on delivering secure, data-driven solutions to solve complex business challenges and provide exceptional user experiences.
+            I design and ship low‑level, performance‑critical software for ARM microcontrollers, embedded Linux, and real‑time systems. My focus is on building reliable, deterministic firmware that spans bare‑metal MCUs, RTOS‑based nodes, and Linux‑based edge platforms.          
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
