@@ -19,7 +19,7 @@ export const HeroSection = () => {
               Ergullu
             </span>
           </h1>
-
+            <h2 className="text-4xl md:text-6xl font-bold tracking-tight">Senior Embedded Software Engineer</h2>
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
             I bridge the gap between sophisticated frontend interfaces and high-performance backend systems. I focus on delivering secure, data-driven solutions to solve complex business challenges and provide exceptional user experiences.
           </p>
