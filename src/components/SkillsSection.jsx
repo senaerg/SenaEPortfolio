@@ -39,7 +39,7 @@ const skills = [
 { name: "AWS", level: 75, category: "tools" }
 ];
 
-const categories = ["all", "languages","frontend", "backend", "database","tools"];
+const categories = ["all", "embedded & Microcontrollers","embedded Linux & Kernel", "real-Time Systems", "debugging & Tools","edge AI"];
 
 export const SkillsSection = () => {
   const [activeCategory, setActiveCategory] = useState("all");
