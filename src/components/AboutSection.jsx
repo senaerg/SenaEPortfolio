@@ -52,9 +52,9 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Full-Stack Depth</h4>
+                  <h4 className="font-semibold text-lg">Systems & Embedded Depth</h4>
                   <p className="text-muted-foreground">
-                    Mastery of modern frameworks paired with deep database knowledge.
+                    Architecting performance‑critical embedded and backend systems, from bare‑metal firmware to Linux‑based edge services.
                   </p>
                 </div>
               </div>
@@ -65,10 +65,9 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">Real‑Time & Safety‑Aware Design</h4>
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                  Designing deterministic, low‑latency software for constrained environments, including RTOS patterns, interrupt‑safe code, and failure‑mode analysis.
                   </p>
                 </div>
               </div>
@@ -82,7 +81,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Technical Mentorship</h4>
                   <p className="text-muted-foreground">
-                    Track record of coaching junior developers and leading high-impact code reviews.
+                   Guiding engineers in embedded best practices, debugging workflows (JTAG/GDB, oscilloscopes, fault trees), and clean abstractions for long‑lifecycle products.
                   </p>
                 </div>
               </div>
